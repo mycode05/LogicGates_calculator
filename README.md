@@ -27,5 +27,5 @@ An Android application that performs basic bitwise logic operations (AND, OR, XO
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mycode05/LogicGates_calculatr.git
+   git clone https://github.com/mycode05/LogicGates_calculator.git
    
